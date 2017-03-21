@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\release\\layout\\main_tab1_fragment.xml",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\layout\\main_tab1_fragment.xml"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\release\\layout\\main_tab3_fragment.xml",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\layout\\main_tab3_fragment.xml"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\release\\layout\\main_tab2_fragment.xml",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\layout\\main_tab2_fragment.xml"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\release\\layout\\use.xml",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\layout\\use.xml"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\release\\layout\\time_dialog.xml",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\layout\\time_dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\release\\layout\\about.xml",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\release\\layout\\device_name.xml",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\release\\layout\\device_list.xml",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\layout\\device_list.xml"
+    }
+]

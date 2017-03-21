@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_purple.xml",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-mdpi\\button_purple.xml"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_blue.xml",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-mdpi\\button_blue.xml"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_orange.xml",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-mdpi\\button_orange.xml"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\navigate_right.png",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-mdpi\\navigate_right.png"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg.jpg",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-mdpi\\bg.jpg"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_green.xml",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-mdpi\\button_green.xml"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_rect_red.xml",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-mdpi\\bt_rect_red.xml"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\nor_up_concor.xml",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-mdpi\\nor_up_concor.xml"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_rect_green.xml",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-mdpi\\bt_rect_green.xml"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\android\android_studio\workspace\BottomTabDemo\app\src\main\assets"><file name="fonts/fontawesome-webfont.ttf" path="D:\android\android_studio\workspace\BottomTabDemo\app\src\main\assets\fonts\fontawesome-webfont.ttf"/></source><source path="D:\android\android_studio\workspace\BottomTabDemo\app\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\android\android_studio\workspace\BottomTabDemo\app\src\release\assets"/></dataSet></merger>

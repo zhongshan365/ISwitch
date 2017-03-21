@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">99Inc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bottom_tab_cfg">控制</string>
+    <string name="bottom_tab_website">网站</string>
+    <string name="bottom_tab_my">我的</string>
+
+    <string name="fa_cogs">&#xf085;</string>
+    <string name="fa_internet_explorer">&#xf26b;</string>
+    <string name="fa_user">&#xf007;</string>
+    <string name="fa_angle_left">&#xf104;</string>
+    <string name="fa_chevron_right">&#xf054;</string>
+    <string name="fa_chevron_left">&#xf053;</string>
+
+    <string name="add">连接</string>
+    <string name="disconnect">断开</string>
+    <string name="add_old">添加设备</string>
+
+    <string name="use">设置</string>
+    <string name="about">关于</string>
+    <string name="exit">退出</string>
+    <string name="resetPwd">重置密码</string>
+    <string name="resetName">重置名称</string>
+    <string name="sback">返回</string>
+    <string name="app_use">设置</string>
+    <string name="app_about">关于</string>
+    <string name="usetext">字符格式显示</string>
+    <string name="drawer_open">抽屉打开</string>
+    <string name="drawer_close">抽屉关闭</string>
+    <string name="abouttext">1.初次连接需要配对，以后打开程序就可以自动连接 \r\n
+        2.可以发送数据，接收数据 \r\n
+        3.可以控制开关   \r\n
+        4.控制灯亮度 \r\n \r\n \r\n
+        by 小黄人软件  \r\n\r\n
+                     旺旺ID: chenhao0568  <a href="http://chenhao0568.taobao.com">进入淘宝店为您定制程序</a></string>
+    <string name="delete">删除设备</string>
+    <string name="time_open_tv">定时开：</string><string name="time_open_bt">请设置时间</string><string name="time_close_tv">定时关：</string><string name="adjust">调节:</string>
+    <string name="reset_bt">重置</string><string name="sharkText">摇一摇：</string>
+</resources>

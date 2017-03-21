@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\androidSDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\android\android_studio\workspace\BottomTabDemo\app\build\intermediates\pre-dexed\release\support-v4-19.1.0_ad74b8235d269239ebdad63e1e485aab0b57065d.jar" />
+    </item>
+    <item
+        jar="D:\android\android_studio\workspace\BottomTabDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9916cc8db0348c7d72254c9a8154d49f1000cab2">
+        <dex dex="D:\android\android_studio\workspace\BottomTabDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8c8934b0c194a38050f72d658a307f5f41d0304f\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\android_studio\workspace\BottomTabDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a08c71665fd5c430859c0c42c171be2cde833230">
+        <dex dex="D:\android\android_studio\workspace\BottomTabDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_186149061f92e32549709d6ebc660eb30bbbf4cf\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\androidSDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\android\android_studio\workspace\BottomTabDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_ad74b8235d269239ebdad63e1e485aab0b57065d\classes.dex" />
+    </item>
+
+</items>

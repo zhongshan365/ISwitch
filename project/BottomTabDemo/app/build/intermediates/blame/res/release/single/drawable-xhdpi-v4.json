@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_know_pre.png",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-xhdpi\\btn_know_pre.png"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_wantknow_pre.png",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-xhdpi\\btn_wantknow_pre.png"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_know_nor.png",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-xhdpi\\btn_know_nor.png"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_my_pre.png",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-xhdpi\\btn_my_pre.png"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_my_nor.png",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-xhdpi\\btn_my_nor.png"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_wantknow_nor.png",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-xhdpi\\btn_wantknow_nor.png"
+    },
+    {
+        "merged": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\zhidao_logo.png",
+        "source": "D:\\android\\android_studio\\workspace\\BottomTabDemo\\app\\src\\main\\res\\drawable-xhdpi\\zhidao_logo.png"
+    }
+]
